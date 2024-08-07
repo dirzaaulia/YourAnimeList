@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+import "com/dirzaaulia/youranimelist/data/dark_theme_config.proto";
+import "com/dirzaaulia/youranimelist/data/theme_brand.proto";
+
+option java_package = "com.dirzaaulia.youranimelist.core.datastore";
+option java_multiple_files = true;
+
+message UserPreferences {
+    bool my_animelist_logged_in = 1;
+    ThemeBrandProto theme_brand = 2;
+    DarkThemeConfigProto dark_theme_config = 3;
+    bool use_dynamic_color = 4;
+
+    // NEXT AVAILABLE ID: 5
+}

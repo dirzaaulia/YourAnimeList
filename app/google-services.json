@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "215121709856",
+    "project_id": "drz-youranimelist",
+    "storage_bucket": "drz-youranimelist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215121709856:android:2639ae5d973efaa27aa545",
+        "android_client_info": {
+          "package_name": "com.dirzaaulia.youranimelist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUkwLvhTHLU6ZIikbUI3ZLI5LcIGtmVxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215121709856:android:3cc60b41148e014c7aa545",
+        "android_client_info": {
+          "package_name": "com.dirzaaulia.youranimelist.demo.debug"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUkwLvhTHLU6ZIikbUI3ZLI5LcIGtmVxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

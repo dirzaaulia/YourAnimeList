@@ -3,4 +3,9 @@
     <string name="action_go">Go</string>
     <string name="summarize_label">Text to summarize</string>
     <string name="summarize_hint">Enter text or a URL to summarize</string>
+
+
+    <!-- TODO Refactor this to per module string resources -->
+    <string name="list">List</string>
+    <string name="about">About</string>
 </resources>
